@@ -68,6 +68,10 @@ Example which respects the DRY rule "Do not repeat yourself".
      abstract class AbstractConnection {
          protected $settings;
 
+         public function __construct( $settings ) {
+             $this->set_settings( $settings );
+         }
+
          protected function set_settings( $settings ) {
              if ( ! is_array( $settings ) ) {
                  throw new \Exception( 'Invalid settings' );
@@ -79,20 +83,12 @@ Example which respects the DRY rule "Do not repeat yourself".
      }
      
      class PartnerOneConnection extends AbstractConnection {
-         public function __construct( $settings ) {
-             $this->set_settings( $settings );
-         }
-         
          protected function connect() {
              //...
          }
      }
      
      class PartnerTwoConnection extends AbstractConnection {
-         public function __construct( $settings ) {
-             $this->set_settings( $settings );
-         }
-         
          protected function connect() {
              //...
          }
