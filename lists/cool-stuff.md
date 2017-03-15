@@ -6,7 +6,7 @@
 * 🇺🇸  [Learn Code Academy][3]
 * 🇺🇸  [Everything as code][4]
 * 🇩🇪  [PHP Ruhr][5]
-* 🇺🇸  [PHP must wartch](6)
+* 🇺🇸  [PHP must watch][6]
 
 [1]: https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
 [2]: https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg
