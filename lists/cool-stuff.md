@@ -1,5 +1,8 @@
 # List with cool stuff
 
+## Coding
+* [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+
 ## Youtube-Channels
 * 🇺🇸  [TEDx Talks][1]
 * 🇺🇸  [Talks at Google][2]
