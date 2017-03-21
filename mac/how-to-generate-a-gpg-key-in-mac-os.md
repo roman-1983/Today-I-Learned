@@ -77,3 +77,5 @@ After that a dialog for a passphrase will fire it twice.
 That's it - i have successfully generated a gpg-key!
 
 The key is saved in `~/.gnupg`
+
+Read how to [show the public gpg key](show-public-gpg-key.md)
