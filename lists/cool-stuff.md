@@ -3,6 +3,10 @@
 ## Coding
 * [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
+## Cool composer packages
+### Logfile-Reader
+* [Pimp my log](https://github.com/potsky/PimpMyLog) is a webinterface written in PHP that allows to read multiple logfiles. Easy installable via composer.
+
 ## Youtube-Channels
 * 🇺🇸  [TEDx Talks][1]
 * 🇺🇸  [Talks at Google][2]
