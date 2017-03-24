@@ -4,6 +4,9 @@
 * [Design Patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Cool composer packages
+
+* [The League of Extraordinary Packages](https://thephpleague.com/) is a group of developers who have banded together to build solid, well tested PHP packages using modern coding standards.
+
 ### Logfile-Reader
 * [Pimp my log](https://github.com/potsky/PimpMyLog) is a webinterface written in PHP that allows to read multiple logfiles. Easy installable via composer.
 
